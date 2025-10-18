@@ -1,0 +1,16 @@
+console.log("hello world")
+// operator
+// increment
+var a=2
+var b=++a
+console.log("a" ,a)
+console.log("b" ,b)
+var c=6
+var d=++c
+console.log("d" ,d)
+console.log("c" ,c)
+// decrement
+var u=7
+var y=++u
+console.log("u" ,u)
+console.log("y" ,y)
